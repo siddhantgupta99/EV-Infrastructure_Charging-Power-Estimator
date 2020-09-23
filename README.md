@@ -1,4 +1,7 @@
 # Infrastructure Based on Charging Power Consumption
+This project compares different statistical and deep learning models to predict the future power distribution among Electric Vehicle Chargers. While numerous other models can also be tested, the best Mean Square Average Loss Value of 0.002 is achieved with LSTM Model.
+
+
 Data Pipeline for prototyping time series algorithms with numerous models
 ![](Images/EV_Charger_Data_Pipeline.png)
 
