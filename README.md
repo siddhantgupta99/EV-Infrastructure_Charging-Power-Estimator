@@ -14,6 +14,6 @@ I could not find a non-stationary charging dataset, so I generated stationary ti
 
 1) ARIMA Model
 
-![](Images/Arima_model_fit.png)
+![](Images/ARIMA_model.png)
 
 2) Neural Net (LSTM)
